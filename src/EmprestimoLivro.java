@@ -3,6 +3,7 @@ public class EmprestimoLivro {
     private String dataInicioEmprestimo;
     private String dataRetornoPublicacao;
     private String valorMulta;
+    private Pessoa pessoa;
 
     public String getDataInicioEmprestimo() {
         return dataInicioEmprestimo;
