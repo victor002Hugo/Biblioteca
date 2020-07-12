@@ -11,8 +11,8 @@ public class Publicacoes {
     public Publicacoes(String dataPublicacao, String titulo, ArrayList<Publicacoes> publicacoesReferencia, ArrayList<Autor> autoresPublicacao) {
         this.dataPublicacao = dataPublicacao;
         this.titulo = titulo;
-        this.publicacoesReferencia = publicacoesReferencia;
-        this.autoresPublicacao = autoresPublicacao;
+        this.publicacoesReferencia = new ArrayList<Publicacoes>();
+        this.autoresPublicacao = new ArrayList<Autor>();
     }
 
     public String getDataPublicacao() {

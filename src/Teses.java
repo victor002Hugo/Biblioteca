@@ -6,9 +6,9 @@ public class Teses extends Artigos {
     private String dataDefesa;
     private String instituicaoDefendida;
 
-    public Teses(String dataPublicacao, String titulo, ArrayList<Publicacoes> publicacoesReferencia, ArrayList<Autor> autoresPublicacao,
+    public Teses(String dataPublicacao, String titulo, ArrayList<Publicacoes> publicacoesReferencia, ArrayList<Autor> autoresPublicacao,String resumo,
                  int numeroDePaginas,String dataDefesa,String instituicaoDefendida) {
-        super(dataPublicacao, titulo, publicacoesReferencia, autoresPublicacao);
+        super(dataPublicacao, titulo, publicacoesReferencia, autoresPublicacao,resumo);
         this.numeroDePaginas=numeroDePaginas;
         this.dataDefesa=dataDefesa;
         this.instituicaoDefendida=instituicaoDefendida;
