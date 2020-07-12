@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81ad2382-0f64-4227-a69f-f9593aa912c5" name="Default Changelist" comment="" />
+    <list default="true" id="81ad2382-0f64-4227-a69f-f9593aa912c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Artigos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Artigos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Biblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmprestimoLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmprestimoLivro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Livros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Livros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Publicacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Publicacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Teses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UsuarioComum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsuarioComum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UsuarioEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsuarioEspecial.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eaQhLDbOkHRFZEgix1dNvYM5ur" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,6 +54,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1594560877229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594560877229" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594557351920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
