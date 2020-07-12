@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Publicacoes {
+public abstract class Publicacoes {
 
     private String  dataPublicacao;
     private String titulo;

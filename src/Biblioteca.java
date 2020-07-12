@@ -1,7 +1,10 @@
+import java.util.ArrayList;
+
 public class Biblioteca {
 
     private String nome;
     private String endereco;
+    private ArrayList<Publicacoes>conjuntoPublicacoes;
 
     public String getNome() {
         return nome;
